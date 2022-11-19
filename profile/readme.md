@@ -1,7 +1,7 @@
 ![Paninosoft](https://raw.githubusercontent.com/paninosoftorg/.github/main/profile/logotype.png)
 
 ---
-Siamo Paninosoft, uno dei gruppi che partecipano al progetto realizzato da Evomatic e dall'I.I.S. Viola Marchesini**, siamo formati da:
+Siamo Paninosoft, uno dei gruppi che partecipano al progetto realizzato da Evomatic e dall'I.I.S. Viola Marchesini, siamo formati da:
 
 |Alex Niccolò Ferrari|Andrea Lavezzi|Federico Rossi|Francesco Di Lena|Giovanni Marchetto|
 |:---:|:---:|:---:|:---:|:---:|
@@ -10,3 +10,6 @@ Siamo Paninosoft, uno dei gruppi che partecipano al progetto realizzato da Evoma
 |Sviluppo App|Sviluppo Backend|Sviluppo App|Sviluppo Backend|Sviluppo App|
 |||Coordinazione con gli organizzatori||Project Manager|
 
+# Le nostre repository:
+## [<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="C"  alt="C" width="20" height="20"/><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="C"  alt="C" width="20" height="20"/>&nbsp;**consumer-mobile**](https://github.com/paninosoftorg/consumer-mobile/)
+L'app mobile, creata con Flutter e Dart.
