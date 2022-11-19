@@ -1,4 +1,4 @@
-![Paninosoft](logotype.svg)
+![Paninosoft](logotype.png)
 
 ---
 Siamo Paninosoft, uno dei gruppi che partecipano al progetto realizzato da Evomatic e dall'I.I.S. Viola Marchesini**, siamo formati da:
