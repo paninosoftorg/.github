@@ -20,5 +20,5 @@ API in PHP per il backend del progetto
 ## [<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="C"  alt="C" width="20" height="20"/>&nbsp;**web**](https://github.com/paninosoftorg/web/)
 L'app web per il progetto
 
-## [<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="C"  alt="C" width="20" height="20"/>&nbsp;**web**](https://github.com/paninosoftorg/auth/)
+## [<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="C"  alt="C" width="20" height="20"/>&nbsp;**auth**](https://github.com/paninosoftorg/auth/)
 La pagina di Login per il web
