@@ -14,5 +14,11 @@ Siamo Paninosoft, uno dei gruppi che partecipano al progetto realizzato da Evoma
 ## [<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="C"  alt="C" width="20" height="20"/><img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="C"  alt="C" width="20" height="20"/>&nbsp;**consumer-mobile**](https://github.com/paninosoftorg/consumer-mobile/)
 L'app mobile, creata con Flutter e Dart.
 
-## [<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="C"  alt="C" width="20" height="20"/>&nbsp;**paninosoft_api**](https://github.com/paninosoftorg/paninosoft_api/)
+## [<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="C"  alt="C" width="20" height="20"/>&nbsp;**food-api**](https://github.com/paninosoftorg/food-api/)
 API in PHP per il backend del progetto
+
+## [<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="C"  alt="C" width="20" height="20"/>&nbsp;**web**](https://github.com/paninosoftorg/web/)
+L'app web per il progetto
+
+## [<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="C"  alt="C" width="20" height="20"/>&nbsp;**web**](https://github.com/paninosoftorg/auth/)
+La pagina di Login per il web
